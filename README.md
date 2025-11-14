@@ -65,13 +65,19 @@ Profit
 
 6) Monthly Trends
 
+![Image alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_6.png)
+
 Aggregated data by year-month to observe monthly patterns in sales and profit.
 
 7) Product Distribution Across Segments
 
+![Image alt]( https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_7.png)
+
 A heatmap showing which products perform well in each segment.
 
 8)  Manufacturing Price vs Sale Price
+
+![image alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_8.png)
 
 Scatter plot comparing product manufacturing costs to selling prices with product labels.
 
