@@ -25,7 +25,7 @@ This step ensures the dataset is accurate before running any analysis.
 * Key Analyses & Visualizations
 1) Sales vs Profit Over Time
 
-![image alt] (https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_1.png)
+![Image Alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_1.png)
 
 Plotted total sales and profit trends by date to see how the business performed across time.
 
