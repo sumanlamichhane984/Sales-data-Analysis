@@ -31,17 +31,25 @@ Plotted total sales and profit trends by date to see how the business performed 
 
 2) Sales and Profit by Business Segment
 
+![Image Alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_2.png)
+
 Compared performance across segments to identify which areas drive the most revenue and profitability.
 
 3)  Country Performance
+
+![Image Alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_3.png)
 
 Ranked countries based on their total sales and profits to understand regional strengths.
 
 4)  Discounts vs Profit Relationship
 
+![Image Alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_4.png)
+
 Scatter plot showing how discount levels impact overall profit.
 
 5) Correlation Heatmap
+
+![Image Alt](https://github.com/sumanlamichhane984/Sales-data-Analysis/blob/main/Figure_5.png)
 
 Used a correlation matrix and heatmap to spot relationships between numerical features like:
 
